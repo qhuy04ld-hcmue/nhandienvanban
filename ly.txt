@@ -1,0 +1,166 @@
+Chuyển động của vật chịu lực tác động từ một lực đẩy hoặc lực kéo.
+Định lý Pythagoras là một định lý trong hình học về ba cạnh của tam giác vuông.
+Nhiệt lượng trong một quá trình nhiệt động học có thể được tính bằng công thức nhiệt lượng.
+Định lý bảo toàn năng lượng cho biết tổng năng lượng trong một hệ cô lập là không thay đổi.
+Công thức định lý thứ hai của Newton áp dụng cho các lực tác động lên một vật thể.
+Lực hấp dẫn giữa hai vật thể có khối lượng tỉ lệ thuận với khối lượng của chúng và tỉ lệ nghịch với bình phương khoảng cách giữa chúng.
+Cơ học lượng tử nghiên cứu sự chuyển động của các hạt cơ bản.
+Công thức tính vận tốc trung bình trong chuyển động đều.
+Định lý Gauss được sử dụng để tính tổng điện tích trong một vùng không gian.
+Khối lượng của một vật thể luôn không đổi khi không có tác động bên ngoài.
+Phản xạ ánh sáng có thể xảy ra khi sóng ánh sáng chạm vào bề mặt của một vật liệu.
+Định lý Bernoulli mô tả mối quan hệ giữa áp suất, vận tốc và năng lượng trong một dòng chất lưu.
+Chất điểm là một đối tượng có thể được coi là không có kích thước, chỉ có khối lượng.
+Chuyển động tròn đều là chuyển động của vật trên một quỹ đạo tròn với vận tốc không thay đổi.
+Định lý phân rã của Newton chỉ ra rằng trong một hệ thống vật lý, các lực không thể tự sinh ra.
+Cơ học lượng tử sử dụng khái niệm hàm sóng để mô tả hành vi của các hạt vi mô.
+Lực ma sát có tác dụng cản trở chuyển động của các vật thể trên bề mặt.
+Định lý về động lượng cho biết động lượng của một hệ không đổi nếu không có ngoại lực tác dụng.
+Năng lượng có thể chuyển đổi giữa các dạng khác nhau như cơ năng, nhiệt năng và điện năng.
+Thuyết tương đối của Einstein chỉ ra rằng khối lượng và năng lượng có thể chuyển đổi qua lại.
+Chuyển động học nghiên cứu các yếu tố ảnh hưởng đến chuyển động của vật thể mà không xét đến nguyên nhân.
+Thuyết điện từ học giải thích các hiện tượng liên quan đến điện và từ trường.
+Khối lượng riêng của vật chất là khối lượng của một đơn vị thể tích của vật chất đó.
+Sự phản xạ và sự khúc xạ của ánh sáng là hai hiện tượng quan trọng trong quang học.
+Định lý Lagrange dùng để tìm ra các phương trình chuyển động trong cơ học lý thuyết.
+Năng lượng tựa trong một hệ thống có thể bị mất qua nhiệt và công cơ học.
+Vật lý học là nghiên cứu về các hiện tượng tự nhiên trong thế giới vật chất.
+Điện từ trường là sự tương tác giữa các trường điện và từ trường.
+Hàm sóng trong cơ học lượng tử đại diện cho các khả năng khác nhau của một hạt.
+Vật lý học ứng dụng giúp giải quyết các vấn đề kỹ thuật và công nghệ trong thực tế.
+Sự gia tốc của vật thể tỷ lệ thuận với lực tác động và tỷ lệ nghịch với khối lượng của nó.
+Lực kéo là lực tác dụng trên một vật từ phía sau của nó.
+Phương trình chuyển động của vật dưới tác dụng của lực kéo có thể được giải quyết bằng cách sử dụng định lý Newton.
+Chuyển động dao động là một chuyển động lặp đi lặp lại trong thời gian.
+Nhiệt động lực học nghiên cứu sự chuyển đổi giữa nhiệt năng và các dạng năng lượng khác.
+Chuyển động của các hạt trong khí lý tưởng tuân theo các định lý thống kê.
+Lực đàn hồi là lực tác động lên một vật khi nó bị biến dạng.
+Cảm ứng điện từ là hiện tượng tạo ra dòng điện trong mạch khi có từ trường biến đổi.
+Phương trình sóng mô tả sự lan truyền của sóng trong môi trường.
+Lực quán tính là khả năng của vật thể chống lại sự thay đổi trong chuyển động của nó.
+Chuyển động của vật chịu lực tác động từ một lực đẩy hoặc lực kéo.
+Định lý Pythagoras là một định lý trong hình học về ba cạnh của tam giác vuông.
+Nhiệt lượng trong một quá trình nhiệt động học có thể được tính bằng công thức nhiệt lượng.
+Định lý bảo toàn năng lượng cho biết tổng năng lượng trong một hệ cô lập là không thay đổi.
+Công thức định lý thứ hai của Newton áp dụng cho các lực tác động lên một vật thể.
+Lực hấp dẫn giữa hai vật thể có khối lượng tỉ lệ thuận với khối lượng của chúng và tỉ lệ nghịch với bình phương khoảng cách giữa chúng.
+Cơ học lượng tử nghiên cứu sự chuyển động của các hạt cơ bản.
+Công thức tính vận tốc trung bình trong chuyển động đều.
+Định lý Gauss được sử dụng để tính tổng điện tích trong một vùng không gian.
+Khối lượng của một vật thể luôn không đổi khi không có tác động bên ngoài.
+Phản xạ ánh sáng có thể xảy ra khi sóng ánh sáng chạm vào bề mặt của một vật liệu.
+Định lý Bernoulli mô tả mối quan hệ giữa áp suất, vận tốc và năng lượng trong một dòng chất lưu.
+Chất điểm là một đối tượng có thể được coi là không có kích thước, chỉ có khối lượng.
+Chuyển động tròn đều là chuyển động của vật trên một quỹ đạo tròn với vận tốc không thay đổi.
+Định lý phân rã của Newton chỉ ra rằng trong một hệ thống vật lý, các lực không thể tự sinh ra.
+Cơ học lượng tử sử dụng khái niệm hàm sóng để mô tả hành vi của các hạt vi mô.
+Lực ma sát có tác dụng cản trở chuyển động của các vật thể trên bề mặt.
+Định lý về động lượng cho biết động lượng của một hệ không đổi nếu không có ngoại lực tác dụng.
+Năng lượng có thể chuyển đổi giữa các dạng khác nhau như cơ năng, nhiệt năng và điện năng.
+Thuyết tương đối của Einstein chỉ ra rằng khối lượng và năng lượng có thể chuyển đổi qua lại.
+Chuyển động học nghiên cứu các yếu tố ảnh hưởng đến chuyển động của vật thể mà không xét đến nguyên nhân.
+Thuyết điện từ học giải thích các hiện tượng liên quan đến điện và từ trường.
+Khối lượng riêng của vật chất là khối lượng của một đơn vị thể tích của vật chất đó.
+Sự phản xạ và sự khúc xạ của ánh sáng là hai hiện tượng quan trọng trong quang học.
+Định lý Lagrange dùng để tìm ra các phương trình chuyển động trong cơ học lý thuyết.
+Năng lượng tựa trong một hệ thống có thể bị mất qua nhiệt và công cơ học.
+Vật lý học là nghiên cứu về các hiện tượng tự nhiên trong thế giới vật chất.
+Điện từ trường là sự tương tác giữa các trường điện và từ trường.
+Hàm sóng trong cơ học lượng tử đại diện cho các khả năng khác nhau của một hạt.
+Vật lý học ứng dụng giúp giải quyết các vấn đề kỹ thuật và công nghệ trong thực tế.
+Sự gia tốc của vật thể tỷ lệ thuận với lực tác động và tỷ lệ nghịch với khối lượng của nó.
+Lực kéo là lực tác dụng trên một vật từ phía sau của nó.
+Phương trình chuyển động của vật dưới tác dụng của lực kéo có thể được giải quyết bằng cách sử dụng định lý Newton.
+Chuyển động dao động là một chuyển động lặp đi lặp lại trong thời gian.
+Nhiệt động lực học nghiên cứu sự chuyển đổi giữa nhiệt năng và các dạng năng lượng khác.
+Chuyển động của các hạt trong khí lý tưởng tuân theo các định lý thống kê.
+Lực đàn hồi là lực tác động lên một vật khi nó bị biến dạng.
+Cảm ứng điện từ là hiện tượng tạo ra dòng điện trong mạch khi có từ trường biến đổi.
+Phương trình sóng mô tả sự lan truyền của sóng trong môi trường.
+Lực quán tính là khả năng của vật thể chống lại sự thay đổi trong chuyển động của nó.
+Điện thế là một đại lượng biểu thị năng lượng điện của một đơn vị điện tích tại một điểm trong không gian.
+Định lý Fourier liên quan đến sự phân rã của tín hiệu thành các sóng hình sin.
+Lý thuyết dây mô tả các hạt cơ bản như là các dao động của các sợi dây vô cùng nhỏ.
+Định lý về lực quán tính có thể giúp xác định hướng chuyển động của các vật thể.
+Vật lý học cơ bản cung cấp các nguyên lý và lý thuyết nền tảng cho các ngành khoa học khác.
+Định lý Coulomb mô tả lực tương tác giữa các điện tích.
+Phương trình Navier-Stokes mô tả sự chuyển động của chất lỏng.
+Dòng điện một chiều có thể được điều khiển bằng cách thay đổi điện áp hoặc điện trở.
+Động năng là năng lượng mà một vật thể có được nhờ chuyển động của nó.
+Thuyết tương đối rộng mô tả sự ảnh hưởng của trọng lực lên không gian và thời gian.
+Định lý Chebyshev có thể được áp dụng trong các bài toán về tối ưu hóa.
+Lực tổng hợp là lực kết hợp tất cả các lực tác động lên một vật.
+Phản ứng nhiệt động là quá trình chuyển đổi giữa nhiệt năng và công năng.
+Năng lượng hạt nhân có thể được giải phóng trong các phản ứng phân hạch hoặc tổng hợp.
+Động học nghiên cứu cách mà vật thể di chuyển theo thời gian.
+Chuyển động học học cung cấp các công thức và lý thuyết cho chuyển động của vật thể dưới tác dụng của lực.
+Quang học là ngành nghiên cứu về ánh sáng và các tính chất liên quan của nó.
+Sự thay đổi trong nhiệt độ có thể ảnh hưởng đến tốc độ phản ứng hóa học.
+Dòng điện cảm ứng được tạo ra khi từ trường thay đổi trong một mạch kín.
+Định lý Maxwell là lý thuyết nền tảng của điện từ học.
+Lực Coulomb tác động giữa các điện tích luôn có xu hướng giảm khi khoảng cách giữa các điện tích tăng lên.
+Chuyển động của vật chịu lực tác động từ một lực đẩy hoặc lực kéo.
+Định lý Pythagoras là một định lý trong hình học về ba cạnh của tam giác vuông.
+Nhiệt lượng trong một quá trình nhiệt động học có thể được tính bằng công thức nhiệt lượng.
+Định lý bảo toàn năng lượng cho biết tổng năng lượng trong một hệ cô lập là không thay đổi.
+Công thức định lý thứ hai của Newton áp dụng cho các lực tác động lên một vật thể.
+Lực hấp dẫn giữa hai vật thể có khối lượng tỉ lệ thuận với khối lượng của chúng và tỉ lệ nghịch với bình phương khoảng cách giữa chúng.
+Cơ học lượng tử nghiên cứu sự chuyển động của các hạt cơ bản.
+Công thức tính vận tốc trung bình trong chuyển động đều.
+Định lý Gauss được sử dụng để tính tổng điện tích trong một vùng không gian.
+Khối lượng của một vật thể luôn không đổi khi không có tác động bên ngoài.
+Phản xạ ánh sáng có thể xảy ra khi sóng ánh sáng chạm vào bề mặt của một vật liệu.
+Định lý Bernoulli mô tả mối quan hệ giữa áp suất, vận tốc và năng lượng trong một dòng chất lưu.
+Chất điểm là một đối tượng có thể được coi là không có kích thước, chỉ có khối lượng.
+Chuyển động tròn đều là chuyển động của vật trên một quỹ đạo tròn với vận tốc không thay đổi.
+Định lý phân rã của Newton chỉ ra rằng trong một hệ thống vật lý, các lực không thể tự sinh ra.
+Cơ học lượng tử sử dụng khái niệm hàm sóng để mô tả hành vi của các hạt vi mô.
+Lực ma sát có tác dụng cản trở chuyển động của các vật thể trên bề mặt.
+Định lý về động lượng cho biết động lượng của một hệ không đổi nếu không có ngoại lực tác dụng.
+Năng lượng có thể chuyển đổi giữa các dạng khác nhau như cơ năng, nhiệt năng và điện năng.
+Thuyết tương đối của Einstein chỉ ra rằng khối lượng và năng lượng có thể chuyển đổi qua lại.
+Chuyển động học nghiên cứu các yếu tố ảnh hưởng đến chuyển động của vật thể mà không xét đến nguyên nhân.
+Thuyết điện từ học giải thích các hiện tượng liên quan đến điện và từ trường.
+Khối lượng riêng của vật chất là khối lượng của một đơn vị thể tích của vật chất đó.
+Sự phản xạ và sự khúc xạ của ánh sáng là hai hiện tượng quan trọng trong quang học.
+Định lý Lagrange dùng để tìm ra các phương trình chuyển động trong cơ học lý thuyết.
+Năng lượng tựa trong một hệ thống có thể bị mất qua nhiệt và công cơ học.
+Vật lý học là nghiên cứu về các hiện tượng tự nhiên trong thế giới vật chất.
+Điện từ trường là sự tương tác giữa các trường điện và từ trường.
+Hàm sóng trong cơ học lượng tử đại diện cho các khả năng khác nhau của một hạt.
+Vật lý học ứng dụng giúp giải quyết các vấn đề kỹ thuật và công nghệ trong thực tế.
+Sự gia tốc của vật thể tỷ lệ thuận với lực tác động và tỷ lệ nghịch với khối lượng của nó.
+Lực kéo là lực tác dụng trên một vật từ phía sau của nó.
+Phương trình chuyển động của vật dưới tác dụng của lực kéo có thể được giải quyết bằng cách sử dụng định lý Newton.
+Chuyển động dao động là một chuyển động lặp đi lặp lại trong thời gian.
+Nhiệt động lực học nghiên cứu sự chuyển đổi giữa nhiệt năng và các dạng năng lượng khác.
+Chuyển động của các hạt trong khí lý tưởng tuân theo các định lý thống kê.
+Lực đàn hồi là lực tác động lên một vật khi nó bị biến dạng.
+Cảm ứng điện từ là hiện tượng tạo ra dòng điện trong mạch khi có từ trường biến đổi.
+Phương trình sóng mô tả sự lan truyền của sóng trong môi trường.
+Lực quán tính là khả năng của vật thể chống lại sự thay đổi trong chuyển động của nó.
+Điện thế là một đại lượng biểu thị năng lượng điện của một đơn vị điện tích tại một điểm trong không gian.
+Định lý Fourier liên quan đến sự phân rã của tín hiệu thành các sóng hình sin.
+Lý thuyết dây mô tả các hạt cơ bản như là các dao động của các sợi dây vô cùng nhỏ.
+Định lý về lực quán tính có thể giúp xác định hướng chuyển động của các vật thể.
+Vật lý học cơ bản cung cấp các nguyên lý và lý thuyết nền tảng cho các ngành khoa học khác.
+Định lý Coulomb mô tả lực tương tác giữa các điện tích.
+Phương trình Navier-Stokes mô tả sự chuyển động của chất lỏng.
+Dòng điện một chiều có thể được điều khiển bằng cách thay đổi điện áp hoặc điện trở.
+Động năng là năng lượng mà một vật thể có được nhờ chuyển động của nó.
+Thuyết tương đối rộng mô tả sự ảnh hưởng của trọng lực lên không gian và thời gian.
+Định lý Chebyshev có thể được áp dụng trong các bài toán về tối ưu hóa.
+Lực tổng hợp là lực kết hợp tất cả các lực tác động lên một vật.
+Phản ứng nhiệt động là quá trình chuyển đổi giữa nhiệt năng và công năng.
+Năng lượng hạt nhân có thể được giải phóng trong các phản ứng phân hạch hoặc tổng hợp.
+Động học nghiên cứu cách mà vật thể di chuyển theo thời gian.
+Chuyển động học học cung cấp các công thức và lý thuyết cho chuyển động của vật thể dưới tác dụng của lực.
+Quang học là ngành nghiên cứu về ánh sáng và các tính chất liên quan của nó.
+Sự thay đổi trong nhiệt độ có thể ảnh hưởng đến tốc độ phản ứng hóa học.
+Dòng điện cảm ứng được tạo ra khi từ trường thay đổi trong một mạch kín.
+Định lý Maxwell là lý thuyết nền tảng của điện từ học.
+Lực Coulomb tác động giữa các điện tích luôn có xu hướng giảm khi khoảng cách giữa các điện tích tăng lên.
+Định lý Heisenberg trong cơ học lượng tử mô tả mối quan hệ giữa vị trí và động lượng của một hạt.
+Sự phân rã của hạt nhân là một quá trình tự nhiên trong đó các hạt nhân không ổn định giải phóng năng lượng.
+Phản xạ gương phẳng là hiện tượng ánh sáng chiếu vào gương và phản xạ trở lại theo một góc bằng với góc tới.
+Lý thuyết điện từ học của Maxwell cung cấp các phương trình mô tả sự tương tác giữa điện và từ trường.

@@ -1,0 +1,7 @@
+cài các thư viện:
+pip install scikit-learn pandas numpy
+chạy chương trình:
++đối với input từ bàn phím:
+python train.py
++đối với input là 1 file txt:
+python train1.py
