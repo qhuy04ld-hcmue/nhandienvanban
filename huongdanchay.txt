@@ -1,3 +1,4 @@
+Cái này là code dùng để phân loại nội dung văn bản sau khi mình đã tách được chữ từ hình ảnh ấy
 cài các thư viện:
 pip install scikit-learn pandas numpy
 chạy chương trình:
